@@ -46,6 +46,8 @@
 ## Footer Styles:
 - text-align: Aligns the text inside the footer.
 
+# Attribut Examples
+
 ### 1. **Selectors:**
    - **Description:** Selectors target HTML elements to apply styles.
    - **Example:** 
